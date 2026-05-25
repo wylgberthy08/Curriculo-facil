@@ -3,7 +3,7 @@
 > Uma plataforma moderna e intuitiva para criar, editar e gerenciar currículos profissionais de forma rápida e fácil.
 
 ![CurrículoFácil Editor](./screenshots/editor.png)
-![CurrículoFácil Preview](./screenshots/preview.png)
+
 
 ## ✨ Funcionalidades
 
@@ -22,8 +22,7 @@
 ### Tela de Edição
 ![Editor de Currículo](./screenshots/editor.png)
 
-### Visualização do Currículo
-![Preview do Currículo](./screenshots/preview.png)
+
 
 ## 🚀 Tecnologias Utilizadas
 
